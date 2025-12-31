@@ -1,7 +1,5 @@
-[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
-
-### नमस्ते (Namaste)🙏🏻, I am Keval Dholakiya 👋
-[![Linkedin Badge](https://img.shields.io/badge/-kevaldholakiya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/keval-d/)](https://www.linkedin.com/in/keval-d/)
+### Hey, I am Keval Dholakiya 👋
+[![Linkedin Badge](https://img.shields.io/badge/-kevaldholakiya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/keval-d/)](https://www.linkedin.com/in/keval-dholakiya//)
 [![Gmail Badge](https://img.shields.io/badge/-kevald47@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kevald47@gmail.com)](mailto:kevald47@gmail.com) 
 
 
@@ -11,4 +9,4 @@
 
 
 <!--[website]: -->
-[linkedin]: https://www.linkedin.com/in/keval-d/
+[linkedin]: https://www.linkedin.com/in/keval-dholakiya/
